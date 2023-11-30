@@ -1,6 +1,6 @@
 # React Phone Catalog
 
-- [DEMO LINK](https://oleksii-mishchenko.github.io/phone-catalog/)
+- [DEMO LINK](https://oleksii-mishchenko.github.io/phone_catalog/)
 - [FIGMA DESIGN](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
 This project is a multi-page online store for selling phones, tablets, and accessories. Implemented using React, TypeScript, JavaScript, HTML5, CSS3(SCSS).
